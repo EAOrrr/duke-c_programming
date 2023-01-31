@@ -1,0 +1,9 @@
+
+1.txt
+b.txt
+a.txt
+8 a.txt
+z.txt
+d.txt
+a.
+a.~

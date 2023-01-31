@@ -1,0 +1,8 @@
+Grading at Sun 04 Dec 2022 09:19:22 AM UTC
+Attempting to compile test.c
+gcc -pedantic -std=gnu99 -o test -Wall -Werror test.c
+compiled
+Your file matched the expected output
+Your output matched what we expected
+
+Overall Grade: A

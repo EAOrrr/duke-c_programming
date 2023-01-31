@@ -1,0 +1,8 @@
+Welcome to the programming environment for
+"InTRODUCTION TO PROGRAMMING IN C".CHANGE
+TO get started,
+
+cd learn2prog
+cd 00_hello
+emacs -nw README
+
